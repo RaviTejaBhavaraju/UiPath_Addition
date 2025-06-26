@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Activity x:Class="GenerateTestCasesFromBRD" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+ xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+ xmlns:ui="http://schemas.uipath.com/workflow/activities" 
+ mc:Ignorable="d">
+  <Sequence DisplayName="Main Sequence">
+    <ui:LogMessage DisplayName="Log Start" Level="Info" Message="[&quot;Starting BRD Test Case Generation&quot;]" />
+  </Sequence>
+</Activity>

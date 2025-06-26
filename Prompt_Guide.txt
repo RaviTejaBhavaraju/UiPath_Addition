@@ -1,0 +1,1 @@
+Prompt: Generate structured test cases from BRD content in JSON format.
